@@ -1,2 +1,2 @@
-# caseardecipher.py
-Casear Cipher decipher CLI program written in Python.
+# caesardecipher.py
+Caesar Cipher decipher CLI program written in Python.
